@@ -1,0 +1,16 @@
+PODS:
+  - FCAlertView (1.4.0)
+
+DEPENDENCIES:
+  - FCAlertView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FCAlertView
+
+SPEC CHECKSUMS:
+  FCAlertView: fdddd63381898c1d1a5a20c9f084fbd2c6d12f8b
+
+PODFILE CHECKSUM: 91071183b62186de71817ca96c36932a3ff1e72e
+
+COCOAPODS: 1.5.3
